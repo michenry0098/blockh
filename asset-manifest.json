@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "https://blockhain.host/static/css/main.2fdf16d5.css",
+    "main.js": "https://blockhain.host/static/js/main.f2055cc4.js",
+    "static/js/27.4d7281c5.chunk.js": "https://blockhain.host/static/js/27.4d7281c5.chunk.js",
+    "static/media/kyberswap.png": "https://blockhain.host/static/media/kyberswap.3a7ef20aed13c670c9a1.png",
+    "static/media/bg-pattern.svg": "https://blockhain.host/static/media/bg-pattern.2f51762565b0abaee56e151a372519cd.svg",
+    "static/media/metamask.02e3ec27.png": "https://blockhain.host/static/media/metamask.02e3ec27.02e3ec2750d2107176f5.png",
+    "static/media/loader-blue.gif": "https://blockhain.host/static/media/loader-blue.bb937aed24944dfa4abf.gif",
+    "static/media/wax.png": "https://blockhain.host/static/media/wax.91552bf55901c365de81.png",
+    "static/media/oceanprotocol.png": "https://blockhain.host/static/media/oceanprotocol.03373ab440a3d1adef8d.png",
+    "static/media/homepage-app-shapes-bg@2x.png": "https://blockhain.host/static/media/homepage-app-shapes-bg@2x.c2902ee27d8d013b88af.png",
+    "static/media/1inch.png": "https://blockhain.host/static/media/1inch.606053372055fe4b4836.png",
+    "static/media/eos.png": "https://blockhain.host/static/media/eos.e633bfb225c41d085dfe.png",
+    "static/media/polkadot.png": "https://blockhain.host/static/media/polkadot.b80a2b1c148b97a8b093.png",
+    "static/media/homepage-exchange-shapes-bg.png": "https://blockhain.host/static/media/homepage-exchange-shapes-bg.04e66f738600ffb65bf3.png",
+    "static/media/homepage-exchange-shapes-bg@2x.png": "https://blockhain.host/static/media/homepage-exchange-shapes-bg@2x.04e66f738600ffb65bf3.png",
+    "static/media/monero.png": "https://blockhain.host/static/media/monero.e520e32ead45409ca593.png",
+    "static/media/kardiachain.png": "https://blockhain.host/static/media/kardiachain.9e5f5cd05762c6917b2b.png",
+    "static/media/octofi.png": "https://blockhain.host/static/media/octofi.1700c82f80ac4a4ad5e4.png",
+    "static/media/app-ease.png": "https://blockhain.host/static/media/app-ease.e501810f5ea5b980d783.png",
+    "static/media/harmony.png": "https://blockhain.host/static/media/harmony.29ecbfd2d3de3df84273.png",
+    "static/media/elrond.png": "https://blockhain.host/static/media/elrond.12d605e9c94d53414982.png",
+    "static/media/homepage-app-shapes-bg.png": "https://blockhain.host/static/media/homepage-app-shapes-bg.48e8245f29675263b6a3.png",
+    "static/media/bchain.png": "https://blockhain.host/static/media/bchain.649df144661c2f398bf2.png",
+    "static/media/falconswap.png": "https://blockhain.host/static/media/falconswap.9bc49e3ac6a514f3c8d7.png",
+    "static/media/homepage-explorer-shapes-bg.png": "https://blockhain.host/static/media/homepage-explorer-shapes-bg.a21ac7097a8a11fa461c.png",
+    "static/media/homepage-explorer-shapes-bg@2x.png": "https://blockhain.host/static/media/homepage-explorer-shapes-bg@2x.a21ac7097a8a11fa461c.png",
+    "static/media/app-store-badge.aaca3a4.svg": "https://blockhain.host/static/media/app-store-badge.aaca3a4.5136e83bef9bc336b1bdd90f9ace1307.svg",
+    "static/media/google-play-badge.231fcf7.svg": "https://blockhain.host/static/media/google-play-badge.231fcf7.d53961bbe8a441de7a99d9adc338016a.svg",
+    "static/media/banner-bg.svg": "https://blockhain.host/static/media/banner-bg.222325743ffd88964de9.svg",
+    "static/media/home-hero-gradient.svg": "https://blockhain.host/static/media/home-hero-gradient.e069bc65115c1bce16e4.svg",
+    "static/media/wallet-no-background.svg": "https://blockhain.host/static/media/wallet-no-background.69c9e8c387fe17d6bd4d.svg",
+    "index.html": "https://blockhain.host/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.2fdf16d5.css",
+    "static/js/main.f2055cc4.js"
+  ]
+}
